@@ -2,12 +2,12 @@
 
 
 
-- 🔭 I’m currently working on my degree.
-- 🌱 I’m currently learning C#
+- 🔭 I’m currently working on my Computer Science Degree.
+- 🌱 I’m currently learning C# and ReactJS
 - 👯 I’m looking to collaborate on java.
-- 🤔 I’m looking for help with C#
+- 🤔 I’m looking for help with ReactJS
 - 💬 Ask me about anything!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/marc-maslen-489b48189/)
-- 👨🏼‍💻 My Website is [My Website](https://www.gigabyteblogger.com/)
+- 👨🏼‍💻 My Website is [My Website](https://marcmaslen.github.io/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My hamster is called Timmy.
