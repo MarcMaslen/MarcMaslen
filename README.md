@@ -11,3 +11,4 @@
 - 👨🏼‍💻 My Website is [My Website](https://marcmaslen.github.io/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My hamster is called Timmy.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcMaslen&&theme=light&layout=compact">
