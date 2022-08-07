@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://twitter.com/swiftyair1" target="blank"><img src="https://img.shields.io/twitter/follow/swiftyair1?logo=twitter&style=for-the-badge" alt="swiftyair1" /></a> </p>
 
-- 🔭 I’m currently working on **my python and web dev skills**
+- 🔭 I’m currently working on **finishing my degree and becoming a software developer**
 
 - 🌱 I’m currently learning **Python and ReactJS**
 
-- 👯 I’m looking to collaborate on **ReactJS**
+- 👯 I’m looking to collaborate on **anything really**
 
-- 🤝 I’m looking for help with **Web Development**
+- 🤝 I’m looking for help with **finidng projects**
 
 - 👨‍💻 All of my projects are available at [https://marcmaslen.github.io/](https://marcmaslen.github.io/)
 
 - 📝 I regularly write articles on [https://www.gigabyteblogger.com/](https://www.gigabyteblogger.com/)
 
-- 💬 Ask me about **react, java, html, css**
+- 💬 Ask me about **anything you want to!**
 
 - 📫 How to reach me **marcmaslen123@gmail.com**
 
