@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Marc Maslen</h1>
-<h3 align="center">Computer Science Graduate | Software Developer | Cyber Secuity | Web Developer</h3>
+<h3 align="center">Computer Science Graduate | Software Developer | Technical Consultant | Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcmaslen&label=Profile%20views&color=0e75b6&style=flat" alt="marcmaslen" /> </p>
 
 <p align="left"> <a href="https://twitter.com/swiftyair1" target="blank"><img src="https://img.shields.io/twitter/follow/swiftyair1?logo=twitter&style=for-the-badge" alt="swiftyair1" /></a> </p>
 
-- 🔭 I’m currently working on **becoming a web developer and improving my skills in that filed**
+- 🔭 I’m currently working **full-time as a technical consultant and starting my own web design company called Blue Zero Web Design **
 
-- 🌱 I’m currently learning **Tailwind and ReactJS**
+- 🌱 I’m currently learning **ReactJS, Snowflake, AWS and Matillion**
 
-- 👯 I’m looking to collaborate on **web development projects**
+- 👯 I’m looking to collaborate on **web design and development projects**
 
-- 🤝 I’m looking for help with **my job search**
+- 🤝 I’m looking for help with **improving my overall development skills and work flows**
 
 - 👨‍💻 All of my projects are available at [https://marcmaslen.github.io/](https://marcmaslen.github.io/)
-
-- 📝 I regularly write articles on [https://www.gigabyteblogger.com/](https://www.gigabyteblogger.com/)
 
 - 💬 Ask me about **anything you want to!**
 
