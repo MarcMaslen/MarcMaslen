@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **marcmaslen123@gmail.com**
 
-- ⚡ Fun fact **I have a pug called Lola**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/marc-maslen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="marc-maslen" height="30" width="40" /></a>
