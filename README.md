@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/swiftyair1" target="blank"><img src="https://img.shields.io/twitter/follow/swiftyair1?logo=twitter&style=for-the-badge" alt="swiftyair1" /></a> </p>
 
-- 🔭 I’m currently working **full-time as a technical consultant and starting my own web design company called Blue Zero Web Design **
+- 🔭 I’m currently working full-time as a Technical Consultant and starting my own web design company called Blue Zero Web Design **
 
 - 🌱 I’m currently learning **ReactJS, Snowflake, AWS and Matillion**
 
