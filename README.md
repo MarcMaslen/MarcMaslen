@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/swiftyair1" target="blank"><img src="https://img.shields.io/twitter/follow/swiftyair1?logo=twitter&style=for-the-badge" alt="swiftyair1" /></a> </p>
 
-- 🔭 I’m currently working full-time as a Technical Consultant and starting my own web design company called Blue Zero Web Design
+- 🔭 I’m working full-time as a Technical Consultant and working on side projects. Also, I am a big gamer
 
-- 🌱 I’m currently learning **ReactJS, Snowflake, AWS and Matillion**
+- 🌱 I’m currently learning **ReactJS, Unity, Snowflake, AWS and Matillion**
 
-- 👯 I’m looking to collaborate on **web design and development projects**
+- 👯 I’m looking to collaborate on **Web development, Sofware developer and unity projects**
 
-- 🤝 I’m looking for help with **improving my overall development skills and work flows**
+- 🤝 I’m looking for help with **improving my overall development skills and workflows**
 
 - 👨‍💻 All of my projects are available at [https://marcmaslen.github.io/](https://marcmaslen.github.io/)
 
