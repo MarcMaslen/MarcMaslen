@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Marc Maslen</h1>
-<h3 align="center">Computer Science Graduate | Software Developer | Technical Consultant | Web Developer</h3>
+<h3 align="center">Computer Science Graduate | Software Developer | DevOps Engineer | Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcmaslen&label=Profile%20views&color=0e75b6&style=flat" alt="marcmaslen" /> </p>
 
 <p align="left"> <a href="https://twitter.com/swiftyair1" target="blank"><img src="https://img.shields.io/twitter/follow/swiftyair1?logo=twitter&style=for-the-badge" alt="swiftyair1" /></a> </p>
 
-- 🔭 I’m working full-time as a Technical Consultant and working on side projects. Also, I am a big gamer
+- 🔭 I’m working full-time as a DevOps Engineer and working on side projects.
 
-- 🌱 I’m currently learning **ReactJS, Unity, Snowflake, AWS and Matillion**
-
-- 👯 I’m looking to collaborate on **Web development, Sofware developer and unity projects**
+- 🌱 I’m currently learning **Terraform, App Development, Building Browser Extensions **
 
 - 🤝 I’m looking for help with **improving my overall development skills and workflows**
 
